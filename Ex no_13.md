@@ -1,4 +1,4 @@
-<img width="1405" height="686" alt="image" src="https://github.com/user-attachments/assets/e3775254-4191-4ba9-9693-96f3c5d27298" /># EX 13 To write a C program to read the elements and print only the odd elements in the 2D array.
+read the elements and print only the odd elements in the 2D array.
 ## DATE:01/09/2025
 ## AIM:
 To write a C program to read the elements and print only the odd elements in the 2D array.
